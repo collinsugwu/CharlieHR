@@ -4,6 +4,9 @@
     test.rb
 
 ## To Execute the Solution run
+- To clone the solution run:
+    ```git clone git@github.com:collinsugwu/CharlieHR.git```
+- To execute the solution run:
 ``` ruby test.rb ```
 
 ## Out puts
